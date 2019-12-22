@@ -1,4 +1,6 @@
 {
+ "status": "true",
+  "message": "Data fetched successfully!",
   "MainCampus": [
     {
       "approved": "YES",
